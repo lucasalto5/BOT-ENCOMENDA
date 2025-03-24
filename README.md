@@ -1,0 +1,1 @@
+Este bot de encomendas para Discord (Discord.js v14) permite que usuários realizem pedidos de forma organizada e automatizada. Ele gerencia todo o processo, desde a solicitação até a finalização do pedido, garantindo um atendimento eficiente pela equipe de suporte.
